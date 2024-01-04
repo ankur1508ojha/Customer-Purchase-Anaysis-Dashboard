@@ -18,6 +18,9 @@ For this exercise, I used two datasets -
 2
  Dashboard -
 Here is the screenshot of the full dashboard. In the next sections we will explore each individual chart and their corresponding details. Throughout the chart I used following Gestalt’s principles
+
 ● Principle of Similarity and Proximity (bubble chart)
+
 ● Principle of Continuity (bar chart)
+
 ● Principle of Focal point (each item in the dashboard have the selection feature)
